@@ -1,0 +1,8 @@
+{
+  "reqres": {
+    "baseUri": "https://reqres.in/",
+    "singleUser": {
+      "path": "api/users/"
+    }
+  }
+}
